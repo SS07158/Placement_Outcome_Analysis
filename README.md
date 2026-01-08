@@ -27,6 +27,7 @@ This analysis helps users gain clarity on where their money is spent and
 supports better financial decision-making.
 
 ## Visualizations
-![GPA VS Placemenets](screenshots/gpa_vs_placement.jpg)
-![Internships VS Placement](screenshots/internships_vs_placement.jpg)
-![Technical SKills VS Placements](screenshots/skills_vs_placement.jpg)
+![GPA VS Placemenets](screenshots/gpa_vs_placement.png)
+![Internships VS Placement](screenshots/internships_vs_placement.png)
+![Technical SKills VS Placements](screenshots/skills_vs_placement.png)
+
