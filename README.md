@@ -26,4 +26,8 @@ academics, internships, and skills for better placement outcomes.
 ![Internships VS Placement](screenshots/internships_vs_placement.png)
 ![Technical SKills VS Placements](screenshots/skills_vs_placement.png)
 
+## Live Demo
+[Click here to view the streamlit app](https://placementoutcomeanalysis-clnhdwan9kduwstmtsxksj.streamlit.app/)
+
+
 
